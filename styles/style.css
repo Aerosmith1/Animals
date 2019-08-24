@@ -1,0 +1,59 @@
+body{
+
+ width:800px;
+ margin:auto;
+
+}
+
+header img{
+
+  height:300px;
+  margin:auto;
+  padding-left:120px;
+}
+
+nav ul {
+
+list-style-type:none;
+margin:0;
+padding:0;
+overflow: hidden;
+background-color: #7DE0D5;
+width:600px;
+
+
+
+}
+
+ul li{
+  
+	float:left;
+  
+}
+
+ul li a{
+
+   display:block;
+   width:110px;
+   text-align:center;
+	
+	padding:8px;
+	text-decoration:none;
+     padding: 14px 16px;
+     color:#C28E9E;
+
+}
+ul li a:hover{
+
+
+	background-color:#423733;
+}
+
+footer{
+
+    position:absolute;
+    
+    bottom:0px;
+
+
+}
