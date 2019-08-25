@@ -1,4 +1,5 @@
 <?php
-require_once(includes/header.php);
+define("title", "Team Happy Day's ")
+require_once(Includes/header.php);
 
 ?>
