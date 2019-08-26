@@ -30,4 +30,38 @@ $teamMembers = array(
 							 ),
 					
 				   );
+
+	$menuItems = array(
+					
+					"shpic" => array(
+						
+						"title"	=> "shpic",
+						"price"	=> 1000,
+						"blurb"	=> "Bacon ipsum dolor sit amet fatback landjaeger ullamco pariatur. Nostrud laboris et, duis drumstick eiusmod kevin ut aliquip. Filet mignon short ribs tenderloin short loin kielbasa non pork chop aliqua. Jerky shank tri-tip capicola, non andouille tenderloin cupidatat turducken meatball pork beef eu shoulder jowl.",
+						
+						
+					),
+					
+					"pudel" => array(
+						
+						"title"	=> "pudel",
+						"price"	=> 700,
+						"blurb"	=> "Pork belly tempor ground round qui exercitation, jowl leberkas sed voluptate excepteur jerky. Reprehenderit veniam cow, quis in ribeye andouille eu pastrami eiusmod exercitation dolor.",
+						
+						
+					),
+					
+					"Hasky" => array(
+						
+						"title"	=> "Haski",
+						"price"	=> 400,
+						"blurb"	=> "Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.",
+					
+						
+					),
+					
+				
+					
+				 );
+
 ?>
