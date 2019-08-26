@@ -1,3 +1,9 @@
+
+<?php
+	include('Includes/arrays.php');
+?>
+
+
 <!DOCTYPE html>
 <html>
 <head> 
@@ -8,18 +14,20 @@
 
 </head>
 <body >
+	<div id="wrapper">
 
 	<header>
 		<a href="/project/PHPproject/" title="Return to home">
 		<img src="img/banner.png" ></a>		
-     </header> 
+      
 	
 <nav>     
 
-<?php require_once('includes/nav.php') ?>
+<?php require_once('Includes/nav.php'); ?>
 
 
 
 </nav>
 
+</header>
 <div id="content">

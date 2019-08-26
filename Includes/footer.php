@@ -1,12 +1,4 @@
 
-	
-<main>
-	
-
-
-
-</main>
-
 <footer>
 	
 <div class="column-three"> <strong>phone</strong>
@@ -24,6 +16,12 @@ Mamikonyants 36/2
 </footer>
 <small>&copy;<?php echo date('Y') ?> Happy Days</small>
 
+</div> 
+<!-- content -->
+
 </div>
+<!-- wrapper -->
+
+
 </body>
 </html>

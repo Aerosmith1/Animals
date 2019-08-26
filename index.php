@@ -1,5 +1,5 @@
 <?php
-require_once('includes/header.php');
+require_once('Includes/header.php');
  ?>
 
 <div id="philosophy">
@@ -17,5 +17,5 @@ As partners in your dog's health, we are excited to introduce a new cannabidiol 
 
 
  <?php
-require_once('includes/footer.php');
+require_once('Includes/footer.php');
  ?>
