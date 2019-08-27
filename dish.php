@@ -25,7 +25,7 @@
 	
 		<h1><?php echo $dish["title"]; ?> <span class="price"><sup>$</sup><?php echo $dish["price"]; ?></span></h1>
 		<p><?php echo $dish["blurb"]; ?></p>
-		
+		<p><img src="img/<?php echo $dish["title"]. ".jpg" ?>"></p>
 		
 	</div><!-- dish -->
 	
