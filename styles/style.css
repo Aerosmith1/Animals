@@ -2,7 +2,7 @@ html,body{
 
  width:600px;
  margin:auto;
- 
+
 }
 html{
 
@@ -14,18 +14,23 @@ min-height:100%;
 body{
 
  margin: 0 0 40px 0 ;
+ 
+}
 
+
+header {
+  
+  width:600px;
+  margin:auto;
+  text-align:center;
 }
 
 
 header img{
-
+  
   height:200px;
-  margin:auto;
-  padding-left:120px;
+ 
 }
-
-
 
 
 
@@ -60,7 +65,7 @@ ul li{
 ul li a{
 
    display:block;
-   width:110px;
+   width:118px;
    text-align:center;
 	
 	padding:8px;
